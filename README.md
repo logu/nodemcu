@@ -43,4 +43,10 @@ On mac osx yosemite you need to install driver :
 
 ## Wiring 
 
+![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/pinout.png)
+
 ## Resources
+
+(https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide)
+(https://gregwareblog.wordpress.com/2016/01/10/esp-witty/)
+
