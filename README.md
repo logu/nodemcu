@@ -28,14 +28,14 @@ On mac osx yosemite you need to install driver :
 
 ### Install the ESP8266 Board Package
 	* Enter http://arduino.esp8266.com/stable/package_esp8266com_index.json into Additional Board Manager URLs field in the Arduino v1.6.4+ preferences.
-	![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/pref.png)
-	![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/cardurl.png)
+![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/pref.png)
+![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/cardurl.png)
 	* Use the Board manager to install the ESP8266 package.
-	![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/gestionaire.png)
-	![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/gestioncatre.png)
+![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/gestionaire.png)
+![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/gestioncatre.png)
 ### Test 
-	![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/cardchoose.png)
-	![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/exemples.png)
+![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/cardchoose.png)
+![Screen](https://raw.githubusercontent.com/logu/nodemcu/master/doc/img/exemples.png)
 
 #### Nodemcu Witty
 
