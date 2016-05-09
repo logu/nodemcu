@@ -2,7 +2,7 @@
 
 ## What’s a Node MCU?
 
-The Node is an open-source IoT (Internet of Things) platform. It uses the Lua programming language.
+The Node is an open-source IoT (Internet of Things) platform.
 
 In terms of hardware, it runs an ESP8266 WiFi SoC from Espressif systems. 
 
